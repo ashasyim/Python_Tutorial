@@ -1,0 +1,10 @@
+kata_sifat1 = input("Masukkan kata sifat: ")
+kata_benda = input("Masukkan kata benda: ")
+kata_sifat2 = input("Masukkan kata sifat: ")
+kata_kerja = input("Masukkan kata kerja: ")
+kata_sifat3 = input("Masukkan kata sifat: ")
+
+print(f"Saya pergi ke pasar {kata_sifat1}")
+print(f"Di pameran saya bertemu {kata_benda}")
+print(f"{kata_benda} itu sangat {kata_sifat2} dan akan {kata_kerja}")
+print(f"Saya sangat {kata_sifat3}")
